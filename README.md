@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Aadarshkumar
+- 👀 I’m interested in web development and backend systems.
+- 🌱 I’m currently learning MERN stack and JWT authentication.
+- 💞️ I’m looking to collaborate on open-source projects related to web applications.
+- 📫 How to reach me: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKSGKcq6PTCuTg7zTDzNsoQ%3D%3D]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing cricket!
